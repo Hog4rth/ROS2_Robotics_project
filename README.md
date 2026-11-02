@@ -25,8 +25,9 @@ Based on the course syllabus, this repository will contain code and simulations 
 - **Key Concepts:** Node architecture, Topics, Services, Autonomous Agents, Knowledge Representation, and Reasoning.
 
 ## 📂 Repository Structure (Proposed)
-- 📁 `exercises/` - Code and solutions for weekly assignments.
 - 📁 `final_project/` - Source code, ROS/ROS 2 packages, and launch files for the final project.
+- 📁 `exercises/` - Code and solutions for weekly assignments.
+  > **Note:** Folders inside this directory are numbered in chronological order as they are assigned during the course.
 
 ## 👥 Team Members
 - Andrea Pirrone: https://github.com/Hog4rth
